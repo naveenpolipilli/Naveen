@@ -1,0 +1,21 @@
+import java.util.*;
+
+ // Compiler version JDK 11.0.2
+
+ class naveen
+ {
+   public static void main(String[] args)
+    {
+  String str = "my father is my first love";
+
+  //length of the String
+  System.out.println("Length of the String: "+str.length());
+
+  //length of the String with white spaces
+  System.out.println("Length of String with spaces ");
+
+    }
+}
+Output:
+Length of the String: 26
+Length of String with spaces.
